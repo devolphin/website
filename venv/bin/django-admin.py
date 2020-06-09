@@ -1,4 +1,4 @@
-#!/Users/grzegorzczarny/Desktop/website_gie/venv/bin/python
+#!/Users/grzegorzczarny/Desktop/djangoresume/venv/bin/python
 from django.core import management
 
 if __name__ == "__main__":
