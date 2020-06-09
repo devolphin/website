@@ -61,7 +61,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'djangoresume.wsgi.application'
+WSGI_APPLICATION = 'website.wsgi.application'
 
 
 # Database
